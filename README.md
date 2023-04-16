@@ -1,22 +1,14 @@
-# Free ChatGPT Site List
+# ChatGPT镜像站合集
 
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/xx025/carrot/issues)
 
-> <a href="https://me.ai55.cc/pages/zs" target="_blank"><font color="red">【🧡赞赏🧡】</font></a>
-
-<a href="https://cc.ai55.cc/ad3?site=https://shop.terobox.com/" target="_blank" style="color: black">
-<img src="https://st.ai55.cc/ads/box-xiaopu.jpg" alt="Ad" style="height: 80px !important;width: auto !important;" >
-<br>
-👆 https://shop.terobox.com/ [广告]
-</a>
-
 ---
 
 **标注说明**
 
-| 🔖 | 📓           |
+| 图标 | 说明           |
 |----|--------------|
 | ⭐  | 使用稳定，推荐      |
 | 😄 | 免费使用         |
